@@ -1,6 +1,8 @@
 # hp-41_notes
 ## HP-41: Taking notes on the calculator
 
+**NOTE:** This program is part of the ISENE.ROM (https://github.com/isene/hp-41_isene-rom). The FOCAL listing can be found in the "src" folder of that project. Any updates and new version will be found there.
+
 No real PDA can do withou a quick notes taker. The same goes for the best PDA ever created: The HP-41.
 
 The simple feature list:
