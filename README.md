@@ -27,3 +27,6 @@ LBL d (/)	|Forces shrinkage of the “NOTES”-file..
 LBL E (\*)	|Go back to the menu.
 
 Technical notes: This program needs an HP-41CX or the equivalent. It also needs an ascii file called “NOTES” to store the events. It further needs the programs “FLSORT” and “FLSZ+”.
+
+## License
+This software is released into the Public Domain.
